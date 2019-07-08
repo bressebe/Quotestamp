@@ -1,0 +1,9 @@
+.creds
+.gradle
+.idea
+out
+build
+quotestamp.log
+quotestamp.iml
+local.properties
+src/main/resources/client_secret.json
